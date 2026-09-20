@@ -13,7 +13,7 @@ Welcome to ECE 364! In this course we present basic concepts in machine learning
 
 * Instructor: [Niraj K. Jha](https://www.princeton.edu/~jha/)
 * TAs: 
-  - Tharaka Fonseca; email: tharaka@princeton.edu; office hours: Tu: 1:30-
+  - Tharaka Fonseka; email: tharaka@princeton.edu; office hours: Tu: 1:30-
   2:30pm, Th: 1:00-2:00pm; EQuad B321; zoom link: https://princeton.zoom.us/j/4275402418.
   - Sashini Liyanage; email: sashini@princeton.edu; office hours: W: 9:00am-
   10:00am, Th: 9:00-10:00am; EQuad B321; zoom link: https://princeton.zoom.us/my/sashiniliyanage.
